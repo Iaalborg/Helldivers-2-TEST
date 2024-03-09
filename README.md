@@ -1,6 +1,6 @@
 # Helldivers-2-Internal-Hack-Dll-Proxy-PoC
 
-#### This is a PoC that I created to learn about dll proxy using C++ on 64bit application / game. well lets hope this stuff works because if it does, i can compete with the others and maybe i can bedeat the enemies
+#### This is a PoC that I created to learn about dll proxy using C++ on 64bit application / game. well lets hope this stuff works because if it does, i can compete with the others and maybe i can bedeat the enemies. this time it might even work again hopefully
 
 ### Thanks to cfemen and gir489 for all information and CE Tables.
 
